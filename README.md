@@ -85,42 +85,6 @@ Export processed images in:
 
 ---
 
-# Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-```
-
----
-
-## Create Virtual Environment
-
-### Windows
-
-```bash
-python -m venv env
-env\Scripts\activate
-```
-
-### Linux / Mac
-
-```bash
-python3 -m venv env
-source env/bin/activate
-```
-
----
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # Requirements
 
